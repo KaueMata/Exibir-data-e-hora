@@ -25,4 +25,4 @@ Como Funciona
 3. A data e hora aparecerão formatadas automaticamente.
 
 # Autor
-Feito por Kaue Mata(https://github.com/seu-usuario)
+Feito por Kaue Mata (https://github.com/KaueMata)
